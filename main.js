@@ -69,3 +69,12 @@ function gotHandPoses(results) {
         handConfidence = handPoses[0].handInViewConfidence;
     }
 }
+
+
+//Drag & drop files on top of canvas
+function gotFile(file) {
+    let img = createImg(file.data);
+    img.hide();
+    imageArray[counter] = img;
+    counter++;
+}
