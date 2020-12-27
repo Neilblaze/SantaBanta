@@ -61,3 +61,11 @@ function imageStay(){
         imageMode(CORNER);
     }
 }
+
+function gotHandPoses(results) {
+    handPoses = results;
+    if (handPoses.length > 0) {
+        handPose = handPoses[0].annotations;
+        handConfidence = handPoses[0].handInViewConfidence;
+    }
+}
