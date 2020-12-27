@@ -48,3 +48,16 @@ function setup() {
 
     handpose.on("predict", gotHandPoses);
 }
+
+function imageStay(){
+    // checks variable value & if input is -1 then display no image
+    console.log("function called")
+    if (noImage){
+        // don't display img
+        return;
+    } else {
+        imageMode(CENTER);
+        image(imageArray[imageIndex], lastX, lastY);
+        imageMode(CORNER);
+    }
+}
