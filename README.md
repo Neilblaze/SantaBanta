@@ -39,7 +39,7 @@
     <img src="https://raw.githubusercontent.com/Neilblaze/wintAR/main/images/favicon.png" width="150px" height="150px" alt="WintAR" >
   </a>
 
-WintAR is a TF.js based gesture recognition interface to spice up Video Conferencing calls during your Winter Holidays ☃️❄️. Whoofus is easy to run & requires no custom application/software installation. Just click on [View Demo](https://hohoholidays.us) & directly use it on the browser! 
+WintAR is a TF.js based gesture recognition interface to spice up Video Conferencing calls during your Winter Holidays ☃️❄️. WintAR is easy to run & requires no custom application/software installation. Just click on [View Demo](https://hohoholidays.us) & directly use it on the browser! 
 
 WintAR runs on both on PC & mobile directly on the browser (on Canvas), although PC is always recommended for much better experience! ✨
 
