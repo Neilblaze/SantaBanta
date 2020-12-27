@@ -45,19 +45,7 @@ Whoofus runs on both on PC & mobile directly on the browser (on Canvas), althoug
 
 - Story
 ```
-Hello folks, wassup
-
-How's your winter vacation going? Lemme guess, you're absolutely bored right? Well I can understand, what else can we do in this claustrophobic pandemic scenario? Well there's something that I can do. Presenting WintAR!
-
-Lemme show how it works. So hope y'all had a great Christmas, & now since santa's went back to his home, the christmas trees are feeling lonely :(
-
-But the snowman's still here, smiling & enjoying winter like there's no tomorrow. Let's assume he's busy coding, well that's too much. Who codes in this time :P
-
-He is probably enjoying the snow outside. Haha
-
-Oopsie, i forgot to check what santa sent me this year, lemme have a look? Seems something interesting tbh. Oh this is WintAR.
-
-With that, happy holidays guys, see y'all in next year! :)
+We all know how boring it is to stay at home during this pandemic lockdown. It's Winter, and most of us are accustomed to going out and chilling with our friends which unfortunately isn't possible this winter. Although we are connected virtually, with that, the enthusiasm level of enjoying Christmas with our near ones has touched the surface, which simultaneously led to the depression of minds, especially the young ones. Besides, not only the young ones are badly affected, but also those who are physically or mentally inaccessible because of certain disabilities. Our project **WintAR** bridges the gap and makes video conferencing more intuitive and fun for not only kids and toddlers but also for everyone!
 ```
 
 ### Built With
