@@ -78,3 +78,18 @@ function gotFile(file) {
     imageArray[counter] = img;
     counter++;
 }
+
+function draw() {
+    image(video, 0, 0);
+
+    if (handPose) {
+        thumbBase(30);
+        neelUp(); // prev img
+        indexUp(); //show img
+        thumbUp();
+        middleUp();
+    } else{
+       // noImage = true;
+        console.log("Missing Hand")
+    }    
+}
