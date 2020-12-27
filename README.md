@@ -41,7 +41,7 @@
 
 WintAR is a TF.js based gesture recognition interface to spice up Video Conferencing calls during your Winter Holidays ☃️❄️. Whoofus is easy to run & requires no custom application/software installation. Just click on [View Demo](https://hohoholidays.us) & directly use it on the browser! 
 
-Whoofus runs on both on PC & mobile directly on the browser (on Canvas), although PC is always recommended for much better experience! ✨
+WintAR runs on both on PC & mobile directly on the browser (on Canvas), although PC is always recommended for much better experience! ✨
 
 - Story
 ```
