@@ -32,3 +32,19 @@ function preload() {
 
     imageArray = [tree, snowman, snowcode, snow, presentbox, holidays];
 }
+
+function setup() {
+    
+    let canvas = createCanvas(640, 480); // Can be rescaled then change obj.input() of p5.js
+    background(0);
+    
+    video = createCapture(VIDEO);
+    video.hide();
+
+    canvas.drop(gotFile);
+
+    //Init handpose model from TF.js
+    handpose = ml5.handpose(video, ()=> console.log("Model successfully initialized!"));
+
+    handpose.on("predict", gotHandPoses);
+}
