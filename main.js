@@ -20,3 +20,15 @@ let holidays;
 let noImage = true;
 let pastX;
 let pastY;
+
+//Preload images
+function preload() {
+    tree = loadImage("images/tree.gif");
+    snowman = loadImage("images/snowman.gif");
+    snow = loadImage("images/snow01.gif");
+    snowcode = loadImage("images/snowcode.gif");
+    presentbox = loadImage("images/presentbox.gif");
+    holidays = loadImage("images/happyholidays.gif");
+
+    imageArray = [tree, snowman, snowcode, snow, presentbox, holidays];
+}
